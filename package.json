@@ -1,0 +1,14 @@
+{
+  "name": "gear-scanner",
+  "version": "1.0.0",
+  "description": "Gear Scanner for FFXIV",
+  "main": "app.js",
+  "repository": "https://github.com/Yehzuna/gear-scanner.git",
+  "author": "Thomas BORUSZEWSKI <yehzuna@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "mysql": "^2.15.0"
+  },
+  "scripts": {}
+}
