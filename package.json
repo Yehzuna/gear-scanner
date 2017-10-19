@@ -7,8 +7,9 @@
   "author": "Thomas BORUSZEWSKI <yehzuna@outlook.com>",
   "license": "MIT",
   "dependencies": {
-    "casperjs": "^1.1.4",
-    "mysql": "^2.15.0"
+    "cheerio": "^1.0.0-rc.2",
+    "mysql": "^2.15.0",
+    "request": "^2.83.0"
   },
   "scripts": {}
 }
