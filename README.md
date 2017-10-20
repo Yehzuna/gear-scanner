@@ -8,12 +8,11 @@ Requirements :
 
 - nodejs >= 8.5.0 
 - npm >=  5.4.2
-- phantomjs >= 2.1.1
-- casperjs >= 1.1.4
+
+> https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
 
 
-    sudo apt install phantomjs
-    npm install -g casperjs
+DOC
 
-    
- 
+> https://scotch.io/tutorials/scraping-the-web-with-node-js
+> https://zestedesavoir.com/tutoriels/312/debuter-avec-mongodb-pour-node-js/
